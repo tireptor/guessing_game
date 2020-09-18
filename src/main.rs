@@ -11,7 +11,7 @@ fn main() {
     println!("Le nombre à trouver est entre 1 et 100 inclus.");
 
     loop {
-        println!("Please input your guess.");
+        println!("Please input your guess !");
 
         let mut guess = String::new();
 
